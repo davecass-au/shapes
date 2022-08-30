@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "shapesquiz_UI", ".\shapesquiz_UI\shapesquiz.esproj", "{DB0F94D6-8D62-46EA-B07F-D828F16F49B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shapesquiz_API", ".\shapesquiz_API\shapesquiz_API.csproj", "{CC4BB8FE-9FBB-48AF-ADFA-A576B712F907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB0F94D6-8D62-46EA-B07F-D828F16F49B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0F94D6-8D62-46EA-B07F-D828F16F49B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0F94D6-8D62-46EA-B07F-D828F16F49B0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DB0F94D6-8D62-46EA-B07F-D828F16F49B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0F94D6-8D62-46EA-B07F-D828F16F49B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB0F94D6-8D62-46EA-B07F-D828F16F49B0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CC4BB8FE-9FBB-48AF-ADFA-A576B712F907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4BB8FE-9FBB-48AF-ADFA-A576B712F907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4BB8FE-9FBB-48AF-ADFA-A576B712F907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4BB8FE-9FBB-48AF-ADFA-A576B712F907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03F44DD5-6968-4E63-975A-C383B313559C}
+	EndGlobalSection
+EndGlobal
