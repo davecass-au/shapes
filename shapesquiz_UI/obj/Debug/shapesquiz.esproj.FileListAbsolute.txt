@@ -1,0 +1,4 @@
+C:\Users\David.Cass\source\repos\shapesquiz\obj\Debug\shapesquiz.esproj.SuggestedBindingRedirects.cache
+C:\Users\David.Cass\source\repos\shapesquiz\obj\Debug\shapesquiz.esproj.CoreCompileInputs.cache
+C:\Users\David.Cass\source\repos\shapesquiz\shapesquiz_UI\obj\Debug\shapesquiz.esproj.SuggestedBindingRedirects.cache
+C:\Users\David.Cass\source\repos\shapesquiz\shapesquiz_UI\obj\Debug\shapesquiz.esproj.CoreCompileInputs.cache
